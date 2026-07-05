@@ -1,0 +1,172 @@
+[
+  {
+    "word": "Turgid",
+    "meaning": "Pompous, overblown in style — NOT boring",
+    "mnemonic": "Tu itna ghumaa-phiraake bol raha hai, dimaag turgid ho gaya. A turgid river is swollen with water — turgid writing is swollen with unnecessary words.",
+    "repetitions": 2,
+    "easeFactor": 2.5,
+    "interval": 3,
+    "dueDate": "2026-07-08",
+    "mastered": false
+  },
+  {
+    "word": "Impeccable",
+    "meaning": "Flawless, without error",
+    "mnemonic": "Im + peccable (Latin peccare = to sin) → literally \"un-sin-nable.\" Nothing to peck/pick at.",
+    "repetitions": 5,
+    "easeFactor": 2.9000000000000004,
+    "interval": 62,
+    "dueDate": "2026-09-05",
+    "mastered": true
+  },
+  {
+    "word": "Chastened",
+    "meaning": "Subdued or humbled, especially after criticism",
+    "mnemonic": "Itni daant padi ki bilkul chup-chaap, sharminda ho gaya. Chasten = daant kar seedha karna.",
+    "repetitions": 3,
+    "easeFactor": 2.5,
+    "interval": 8,
+    "dueDate": "2026-07-13",
+    "mastered": false
+  },
+  {
+    "word": "Diplomatic",
+    "meaning": "Tactful; can also mean evasive/non-committal",
+    "mnemonic": "Diplomat jaisi baat karta hai — seedha jawaab nahi deta. Tactfully vague, not just \"polite.\"",
+    "repetitions": 3,
+    "easeFactor": 2.7,
+    "interval": 8,
+    "dueDate": "2026-07-13",
+    "mastered": false
+  },
+  {
+    "word": "Candid",
+    "meaning": "Honest, direct, unfiltered",
+    "mnemonic": "Candid camera mein jo dikhta hai woh real hota hai, bina filter ke. Seedha-saadha sach.",
+    "repetitions": 3,
+    "easeFactor": 2.8000000000000003,
+    "interval": 8,
+    "dueDate": "2026-07-13",
+    "mastered": false
+  },
+  {
+    "word": "Comprehensive",
+    "meaning": "Complete, covering everything",
+    "mnemonic": "Com-PREHEND-sive — to comprehend fully, you need everything. Sab kuch cover, chhoti se chhoti cheez bhi.",
+    "repetitions": 3,
+    "easeFactor": 2.5,
+    "interval": 8,
+    "dueDate": "2026-07-13",
+    "mastered": false
+  },
+  {
+    "word": "Sidestepped",
+    "meaning": "Avoided directly addressing something",
+    "mnemonic": "Seedhe rasta se hatke, side se nikal gaya — avoided facing it head-on.",
+    "repetitions": 3,
+    "easeFactor": 2.5,
+    "interval": 8,
+    "dueDate": "2026-07-13",
+    "mastered": false
+  },
+  {
+    "word": "Indictment",
+    "meaning": "Formal accusation; a charge of wrongdoing",
+    "mnemonic": "Indictment = ilzaam, jaise court mein FIR jaisa charge. Silent \"c\" — sounds like \"in-DITE-ment.\"",
+    "repetitions": 3,
+    "easeFactor": 2.2199999999999998,
+    "interval": 7,
+    "dueDate": "2026-07-12",
+    "mastered": false
+  },
+  {
+    "word": "PROFLIGATE",
+    "meaning": "(adj) recklessly wasteful, especially with money",
+    "mnemonic": "Profligate spender \nExample: paisa pani ki tarah bahata hai (Spends money like water)",
+    "repetitions": 2,
+    "easeFactor": 2.36,
+    "interval": 3,
+    "dueDate": "2026-07-08",
+    "mastered": false
+  },
+  {
+    "word": "Ameliorated",
+    "meaning": "To make a bad situation better — opposite of exacerbated",
+    "mnemonic": "Q1 trap: I paired this with exacerbated (D) thinking both fit — but they're opposites, so pairing them broke the \"equivalence\" rule. \"Sarkar ne policy se problem ameliorate karne ki koshish ki, lekin technocrats ne usse exacerbate kar diya.",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Exacerbated",
+    "meaning": "To make a bad situation worse — pairs with \"worsened,\" not \"ameliorated\"",
+    "mnemonic": "Q1 correct answer (with worsened). The \"so that... counterproductive\" logic only works if the technocrats made things worse, not better. Uske comments ne situation ko exacerbate kar diya, ab sab aur gussa hain. (his comments exacerbated the situation, no everyone is having much anger",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Ascertained",
+    "meaning": "To find out or determine something for certain, after checking",
+    "mnemonic": "Q1 distractor, wrong direction (neutral fact-finding, not causing harm) \"Doctor ne test karke ascertain kiya ki problem kya thi. (After testing, Doctor ascertained us about the actual problem/cause",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Diagnosed",
+    "meaning": "To identify the nature of a problem, especially medically or analytically",
+    "mnemonic": "Q1 distractor, too neutral/technical for the sentence's cause-effect logic. \"Engineer ne system ko diagnose kiya, lekin fix nahi kiya.\"",
+    "repetitions": 1,
+    "easeFactor": 2.6,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Overshadowed",
+    "meaning": "To be dominated or eclipsed by something else, reducing its importance",
+    "mnemonic": "\"Uski achievement dusre bade news se overshadow ho gayi.\"",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Obscure (verb)",
+    "meaning": "To make unclear, hide, or diminish the visibility/stature of something",
+    "mnemonic": "distinct from \"invalidate\" (prove false) and \"underscore\" (emphasize) \"Politics ne facts ko obscure kar diya, sach samajhna mushkil ho gaya.\"",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Superficiality",
+    "meaning": "Shallowness, lack of depth or substance",
+    "mnemonic": "\"Uske argument mein superficiality thi, deep analysis kahin nahi thi.\"",
+    "repetitions": 1,
+    "easeFactor": 2.5,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  },
+  {
+    "word": "Dubious",
+    "meaning": "Doubtful, of questionable reliability",
+    "mnemonic": "original test question, correct \"Uske sources dubious the, primary evidence pe bharosa nahi tha.\"",
+    "repetitions": 1,
+    "easeFactor": 2.6,
+    "interval": 1,
+    "dueDate": "2026-07-06",
+    "mastered": false
+  }
+]
