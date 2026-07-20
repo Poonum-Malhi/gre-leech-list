@@ -1,0 +1,392 @@
+[
+  {
+    "word": "Turgid",
+    "meaning": "Pompous, overblown in style — NOT boring",
+    "mnemonic": "Tu itna ghumaa-phiraake bol raha hai, dimaag turgid ho gaya. A turgid river is swollen with water — turgid writing is swollen with unnecessary words.",
+    "repetitions": 4,
+    "easeFactor": 2.46,
+    "interval": 19,
+    "dueDate": "2026-07-31",
+    "mastered": true
+  },
+  {
+    "word": "Impeccable",
+    "meaning": "Flawless, without error",
+    "mnemonic": "Im + peccable (Latin peccare = to sin) → literally \"un-sin-nable.\" Nothing to peck/pick at.",
+    "repetitions": 6,
+    "easeFactor": 3.0000000000000004,
+    "interval": 180,
+    "dueDate": "2027-01-08",
+    "mastered": true
+  },
+  {
+    "word": "Chastened",
+    "meaning": "Subdued or humbled, especially after criticism",
+    "mnemonic": "Itni daant padi ki bilkul chup-chaap, sharminda ho gaya. Chasten = daant kar seedha karna.",
+    "repetitions": 5,
+    "easeFactor": 2.5,
+    "interval": 50,
+    "dueDate": "2026-08-31",
+    "mastered": true
+  },
+  {
+    "word": "Diplomatic",
+    "meaning": "Tactful; can also mean evasive/non-committal",
+    "mnemonic": "Diplomat jaisi baat karta hai — seedha jawaab nahi deta. Tactfully vague, not just \"polite.\"",
+    "repetitions": 5,
+    "easeFactor": 2.8000000000000003,
+    "interval": 59,
+    "dueDate": "2026-09-09",
+    "mastered": true
+  },
+  {
+    "word": "Candid",
+    "meaning": "Honest, direct, unfiltered",
+    "mnemonic": "Candid camera mein jo dikhta hai woh real hota hai, bina filter ke. Seedha-saadha sach.",
+    "repetitions": 5,
+    "easeFactor": 3.0000000000000004,
+    "interval": 64,
+    "dueDate": "2026-09-14",
+    "mastered": true
+  },
+  {
+    "word": "Comprehensive",
+    "meaning": "Complete, covering everything",
+    "mnemonic": "Com-PREHEND-sive — to comprehend fully, you need everything. Sab kuch cover, chhoti se chhoti cheez bhi.",
+    "repetitions": 5,
+    "easeFactor": 2.7,
+    "interval": 52,
+    "dueDate": "2026-09-02",
+    "mastered": true
+  },
+  {
+    "word": "Sidestepped",
+    "meaning": "Avoided directly addressing something",
+    "mnemonic": "Seedhe rasta se hatke, side se nikal gaya — avoided facing it head-on.",
+    "repetitions": 5,
+    "easeFactor": 2.7,
+    "interval": 52,
+    "dueDate": "2026-09-02",
+    "mastered": true
+  },
+  {
+    "word": "Indictment",
+    "meaning": "Formal accusation; a charge of wrongdoing",
+    "mnemonic": "Indictment = ilzaam, jaise court mein FIR jaisa charge. Silent \"c\" — sounds like \"in-DITE-ment.\"",
+    "repetitions": 5,
+    "easeFactor": 2.32,
+    "interval": 36,
+    "dueDate": "2026-08-17",
+    "mastered": true
+  },
+  {
+    "word": "PROFLIGATE",
+    "meaning": "(adj) recklessly wasteful, especially with money",
+    "mnemonic": "Profligate spender \nExample: paisa pani ki tarah bahata hai (Spends money like water)",
+    "repetitions": 3,
+    "easeFactor": 2.46,
+    "interval": 7,
+    "dueDate": "2026-07-27",
+    "mastered": false
+  },
+  {
+    "word": "Ameliorated",
+    "meaning": "To make a bad situation better — opposite of exacerbated",
+    "mnemonic": "Q1 trap: I paired this with exacerbated (D) thinking both fit — but they're opposites, so pairing them broke the \"equivalence\" rule. \"Sarkar ne policy se problem ameliorate karne ki koshish ki, lekin technocrats ne usse exacerbate kar diya.",
+    "repetitions": 4,
+    "easeFactor": 2.6,
+    "interval": 20,
+    "dueDate": "2026-08-01",
+    "mastered": true
+  },
+  {
+    "word": "Exacerbated",
+    "meaning": "To make a bad situation worse — pairs with \"worsened,\" not \"ameliorated\"",
+    "mnemonic": "Q1 correct answer (with worsened). The \"so that... counterproductive\" logic only works if the technocrats made things worse, not better. Uske comments ne situation ko exacerbate kar diya, ab sab aur gussa hain. (his comments exacerbated the situation, no everyone is having much anger",
+    "repetitions": 4,
+    "easeFactor": 2.6,
+    "interval": 20,
+    "dueDate": "2026-08-01",
+    "mastered": true
+  },
+  {
+    "word": "Ascertained",
+    "meaning": "To find out or determine something for certain, after checking",
+    "mnemonic": "Q1 distractor, wrong direction (neutral fact-finding, not causing harm) \"Doctor ne test karke ascertain kiya ki problem kya thi. (After testing, Doctor ascertained us about the actual problem/cause",
+    "repetitions": 4,
+    "easeFactor": 2.5,
+    "interval": 20,
+    "dueDate": "2026-08-06",
+    "mastered": true
+  },
+  {
+    "word": "Diagnosed",
+    "meaning": "To identify the nature of a problem, especially medically or analytically",
+    "mnemonic": "Q1 distractor, too neutral/technical for the sentence's cause-effect logic. \"Engineer ne system ko diagnose kiya, lekin fix nahi kiya.\"",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 22,
+    "dueDate": "2026-08-03",
+    "mastered": true
+  },
+  {
+    "word": "Overshadowed",
+    "meaning": "To be dominated or eclipsed by something else, reducing its importance",
+    "mnemonic": "\"Uski achievement dusre bade news se overshadow ho gayi.\"",
+    "repetitions": 4,
+    "easeFactor": 2.6,
+    "interval": 20,
+    "dueDate": "2026-08-01",
+    "mastered": true
+  },
+  {
+    "word": "Obscure (verb)",
+    "meaning": "To make unclear, hide, or diminish the visibility/stature of something",
+    "mnemonic": "distinct from \"invalidate\" (prove false) and \"underscore\" (emphasize) \"Politics ne facts ko obscure kar diya, sach samajhna mushkil ho gaya.\"",
+    "repetitions": 4,
+    "easeFactor": 2.2199999999999998,
+    "interval": 16,
+    "dueDate": "2026-07-28",
+    "mastered": true
+  },
+  {
+    "word": "Superficiality",
+    "meaning": "Shallowness, lack of depth or substance",
+    "mnemonic": "\"Uske argument mein superficiality thi, deep analysis kahin nahi thi.\"",
+    "repetitions": 2,
+    "easeFactor": 2.7,
+    "interval": 3,
+    "dueDate": "2026-07-22",
+    "mastered": false
+  },
+  {
+    "word": "Dubious",
+    "meaning": "Doubtful, of questionable reliability",
+    "mnemonic": "original test question, correct \"Uske sources dubious the, primary evidence pe bharosa nahi tha.\"",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 21,
+    "dueDate": "2026-08-02",
+    "mastered": true
+  },
+  {
+    "word": "Disconsolate",
+    "meaning": "unconsole, very sad, not reallly conslidated",
+    "mnemonic": "consultation karke logon ko consolate karna. so we want them to do certain things the way we want",
+    "repetitions": 4,
+    "easeFactor": 2.5,
+    "interval": 20,
+    "dueDate": "2026-08-06",
+    "mastered": true
+  },
+  {
+    "word": "insolence",
+    "meaning": "disrespect",
+    "mnemonic": "community words: banished, misguided, brazen: \nThe college student's flippant remarks to her professor, made in a brazen and misguided attempted to garner esteem from her peers, met with unintended consequences when she was banished from the classroom for her insolence",
+    "repetitions": 4,
+    "easeFactor": 2.36,
+    "interval": 17,
+    "dueDate": "2026-08-03",
+    "mastered": true
+  },
+  {
+    "word": "derision",
+    "meaning": "harsh critism",
+    "mnemonic": "derision\nfeminine noun\nContempt that incites laughter, mockery of (someone, something).\nTo say something derisively.",
+    "repetitions": 4,
+    "easeFactor": 2.2199999999999998,
+    "interval": 16,
+    "dueDate": "2026-08-02",
+    "mastered": true
+  },
+  {
+    "word": "Scotch and Foil",
+    "meaning": "synonyms in sentece",
+    "mnemonic": "scotch: to put an end to: stamped out and foil means to prevent the success of.",
+    "repetitions": 4,
+    "easeFactor": 2.46,
+    "interval": 17,
+    "dueDate": "2026-08-03",
+    "mastered": true
+  },
+  {
+    "word": "Stealthily and furtively",
+    "meaning": "sneakly like stealing choclates",
+    "mnemonic": "the child stealthily entered the kitchen and grabed some chocolates before her mother arrived",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "apprehension and trepidation",
+    "meaning": "anxiety and fear",
+    "mnemonic": "knitting and cooking can counteract the deleterious effects of (apprehension/trepidation) on human body",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "Positive/calm/composed",
+    "meaning": "words in a group",
+    "mnemonic": "aplomb \nNonchalant \nhilarity \nimperturbable \nsonorous",
+    "repetitions": 4,
+    "easeFactor": 2.8000000000000003,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "aplomb",
+    "meaning": "self-possessed confidence, esp under pressure",
+    "mnemonic": "Poonum passed the test with aplomb",
+    "repetitions": 4,
+    "easeFactor": 2.46,
+    "interval": 17,
+    "dueDate": "2026-08-03",
+    "mastered": true
+  },
+  {
+    "word": "nonchalant",
+    "meaning": "casually calm, unconcerned",
+    "mnemonic": "calm and unconerned \n(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.\n\"she gave a nonchalant shrug\"",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "hilarity",
+    "meaning": "boisterous amusement, great fun",
+    "mnemonic": "extreme amusement, especially when expressed by laughter.\n\"his incredulous expression was the cause of much hilarity\"",
+    "repetitions": 4,
+    "easeFactor": 2.8000000000000003,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "imperturbable",
+    "meaning": "not easily upset or excited, calm",
+    "mnemonic": "unable to be upset or excited; calm.\n\"an imperturbable tranquillity\"",
+    "repetitions": 5,
+    "easeFactor": 2.6,
+    "interval": 52,
+    "dueDate": "2026-09-10",
+    "mastered": true
+  },
+  {
+    "word": "sonorous",
+    "meaning": "deep, full, resonant (deep of sound/voice)",
+    "mnemonic": "(of a person's voice or other sound) imposingly deep and full.\n\"he read aloud with a sonorous and musical voice\"\ncapable of producing a deep or ringing sound.\n\"the alloy is sonorous and useful in making bells\"",
+    "repetitions": 6,
+    "easeFactor": 2.36,
+    "interval": 94,
+    "dueDate": "2026-10-22",
+    "mastered": true
+  },
+  {
+    "word": "Negative / Harsh / Critical",
+    "meaning": "words in groups",
+    "mnemonic": "acerbic, truculent, malevolent, incorrigible, insolence, derision, reviling, inexcusable, unctuous",
+    "repetitions": 4,
+    "easeFactor": 2.9000000000000004,
+    "interval": 22,
+    "dueDate": "2026-08-08",
+    "mastered": true
+  },
+  {
+    "word": "acerbic",
+    "meaning": "sharp, biting, sarcastic in tone",
+    "mnemonic": "especially of a comment or style of speaking) sharp and forthright.\n\"his acerbic wit\"\nSimilar:\nsharp\nsarcastic\nsardonic",
+    "repetitions": 5,
+    "easeFactor": 2.56,
+    "interval": 42,
+    "dueDate": "2026-08-31",
+    "mastered": true
+  },
+  {
+    "word": "truculent",
+    "meaning": "fierce, eager to fight, scathing",
+    "mnemonic": "quick to argue or oppose; aggressively defiant.\n\"his days of truculent defiance were over\"\nSimilar:\ndefiant\naggressive\nantagonistic",
+    "repetitions": 5,
+    "easeFactor": 2.7,
+    "interval": 57,
+    "dueDate": "2026-09-15",
+    "mastered": true
+  },
+  {
+    "word": "malevolent",
+    "meaning": "wishing harm/evil on others",
+    "mnemonic": "having or showing a wish to do evil to others.\n\"the glint of dark, malevolent eyes\"\nSimilar:\nmalicious\nspiteful\nhostile\nevil-minded\nbaleful\nbitter\nevil-intentioned\npoisonous\nvenomous\nevil\nmalign\nmalignant\nrancorous\nvicious\nvindictive\nrevengeful\nvengeful\npernicious\ncruel\nfierce\nnasty\nunfriendly\nunkind\nill-natured\nmalefic\nmaleficent\nOpposite:\nbenevolent",
+    "repetitions": 5,
+    "easeFactor": 2.6,
+    "interval": 52,
+    "dueDate": "2026-09-10",
+    "mastered": true
+  },
+  {
+    "word": "incorrigible",
+    "meaning": "unable to be reformed or corrected (bad habits)",
+    "mnemonic": "(of a person or their behaviour) not able to be changed or reformed.\n\"he's an incorrigible liar\"\nSimilar:\ninveterate\nhabitual\nconfirmed\nhardened\nincurable\nunreformable\nirreformable\nirredeemable\nintractable\nhopeless\nbeyond hope/redemption\nchronic\ndiehard\ndeep-dyed\ndyed-in-the-wool\nlong-standing\naddicted\nhardcore\nimpenitent\nuncontrite\nunrepentant\nunapologetic\nunashamed\nimpossible\nOpposite:\noccasional\nrepentant\nnoun",
+    "repetitions": 4,
+    "easeFactor": 2.6,
+    "interval": 20,
+    "dueDate": "2026-08-09",
+    "mastered": true
+  },
+  {
+    "word": "insolence",
+    "meaning": "disrespectful, rude behaviour/speech",
+    "mnemonic": "rude and disrespectful behaviour.\n\"she was sacked for insolence\"\nSimilar:\nimpertinence\nimpudence\ncheek\ncheekiness\nbad manners\nill-manneredness\nunmannerliness\nrudeness\nimpoliteness\nincivility\nlack of civility\ndiscourtesy\ndiscourteousness\ndisrespect\ninsubordination\ncontempt\naudacity\nboldness\nbrazenness\nbrashness\npertness\nforwardness\neffrontery\ngall\npresumptuousness\npresumption\ninsults\nabuse\noffensiveness\nbrass\nbrass neck\nneck\nface\nfront\ncockiness\nfreshness\nbackchat\nbad-mouthing\nsauce\nsnash\nchutzpah\nsass\nsassiness\nnerviness\nhide\ncrust\ncontumely\nmalapertness\nOpposite:\npoliteness",
+    "repetitions": 1,
+    "easeFactor": 2.6,
+    "interval": 1,
+    "dueDate": "2026-07-21",
+    "mastered": false
+  },
+  {
+    "word": "derision",
+    "meaning": "contemptuous mockery",
+    "mnemonic": "contemptuous ridicule or mockery.\n\"my stories were greeted with derision and disbelief\"\nSimilar:\nmockery\nridicule\njeering\njeers",
+    "repetitions": 5,
+    "easeFactor": 2.8000000000000003,
+    "interval": 62,
+    "dueDate": "2026-09-20",
+    "mastered": true
+  },
+  {
+    "word": "reviling",
+    "meaning": "criticizing / insulting abusively",
+    "mnemonic": "criticize in an abusive or angrily insulting manner.\n\"he was now reviled by the party that he had helped to lead\"\nSimilar:\ncriticize\ncensure\ncondemn\nattack\ninveigh against\nrail against",
+    "repetitions": 4,
+    "easeFactor": 2.7,
+    "interval": 21,
+    "dueDate": "2026-08-10",
+    "mastered": true
+  },
+  {
+    "word": "inexcusable",
+    "meaning": "too bad to be justified",
+    "mnemonic": "too bad to be justified or tolerated.\n\"Matt's behaviour was inexcusable\"\nSimilar:\nindefensible\nunjustifiable\nunjustified\nunwarrantable\nunwarranted\nunpardonable\nunforgivable\ninexpiable\nblameworthy\ncensurable\nreprehensible\ndeplorable\nunconscionable\noutrageous\ndisgraceful\nregrettable\nunacceptable\nunreasonable\nunworthy\nuncalled-for\nunprovoked\ngratuitous\nwithout cause\nwithout reason\nwithout justification\nOpposite:\nexcusable",
+    "repetitions": 4,
+    "easeFactor": 2.6,
+    "interval": 21,
+    "dueDate": "2026-08-10",
+    "mastered": true
+  },
+  {
+    "word": "unctuous",
+    "meaning": "fake-friendly, oilly-flaterry, insincere charm",
+    "mnemonic": "excessively flattering or ingratiating; oily.\n\"as I turned away an unctuous salesman appeared\"\nSimilar:\nsycophantic\ningratiating\nobsequious\nfawning\nservile\nself-abasing\ngrovelling\nsubservient\nwheedling\ncajoling\ncrawling\ncringing\nUriah Heepish\nhumble\ntoadying\nhypocritical\ninsincere\nflattering\nadulatory\nhoney-tongued\nsilver-tongued\ngushing\neffusive\nsuave\nurbane\nglib\nsmooth\nsmooth-tongued\nsmooth-spoken\nsmooth-talking\nslick\nslippery\nsaccharine\noily\noleaginous\ngreasy\ncloying\nnauseating\nsickening\nsmarmy\nslimy\nbootlicking\nforelock-tugging\nphoney\nsucky\nsoapy\nbrown-nosing\napple-polishing\nsaponaceous\npinguid\nView 4 vulgar slang words\nOpposite:\nblunt\nno-nonsense\n2.\n(of food or drink) having a pleasingly rich taste.\n\"this variety of cured meat is pleasantly unctuous and melts in your mouth\"",
+    "repetitions": 4,
+    "easeFactor": 2.5,
+    "interval": 20,
+    "dueDate": "2026-08-09",
+    "mastered": true
+  }
+]
